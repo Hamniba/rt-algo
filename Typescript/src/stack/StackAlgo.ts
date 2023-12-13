@@ -26,3 +26,11 @@ function decimalToBinary(decimal: number): string {
 
 console.log(`decimalToBinary 1024 => ${decimalToBinary(1024)}`)
 
+/**
+ * 计算算术表达式
+ * 
+ * balanced parentheses (palindrome problem)
+ * 
+ * Hanoi Tower
+ */
+
