@@ -36,7 +36,7 @@ export class Stack<T> {
         return this.size() == 0
     }
 
-    toString() {
+    toString(): string {
         return this.items.toString();
     }
 }
